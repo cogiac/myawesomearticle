@@ -3,3 +3,5 @@
 ##introduction
 ##results
 ##material and methods
+##discussion
+##references
