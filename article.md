@@ -1,11 +1,11 @@
 # Report of some awesome research
-##abstract
+## abstract
 Hello world
-##introduction
+## introduction
 This is me
-##results
+## results
 Results are done
-##material and methods
+## material and methods
 Who writes methods?
-##discussion
-##references
+## discussion
+## references
